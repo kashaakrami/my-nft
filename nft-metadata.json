@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "physical_features": "Gender",
+        "value": "Male"
+      }, 
+      {
+        "physical_features": "Height",
+        "value": "5'10"
+      }
+    ],
+    "description": "Alex Wellman at the Beach.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaicsYQjGno4HAmyuKcDs962GQ6jsJepGgmrSmhG8cuLj",
+    "name": "Alex"
+  }
+  
