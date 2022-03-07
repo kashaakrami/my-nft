@@ -49,6 +49,7 @@ const tx = {
       console.log(" Promise failed:", err)
     })
 }
+
 mintNFT(
     "https://gateway.pinata.cloud/ipfs/QmVZUAJN5Qxbywxhd3h2CtiqMZbTuP2K6p5joRniprzzru"
 )
